@@ -1,41 +1,42 @@
-# cpp-projects
-C++ Projects by  Zulqarnain Khan Jadoon
-# Secure Console-Based ATM Banking Application
+# C++ Projects — Zulqarnain Khan Jadoon
 
-A high-integrity, interactive Command-Line Interface (CLI) application built using **C++**. This system simulates a real-world Automated Teller Machine (ATM) ecosystem, focusing on runtime state security, precise arithmetic balance execution, and strict conditional multi-user access logic.
+A collection of C++ programming projects demonstrating problem-solving, control flow, input validation, and object-oriented programming fundamentals.
 
-Designed to showcase solid Object-Oriented Programming (OOP) syntax handling, input stream validation, and defensive coding techniques in C++.
+## Featured Project: Console-Based ATM Banking Application
+
+An educational command-line application that simulates common ATM operations using C++.
+
+### Main Capabilities
+
+- PIN-based access flow.
+- Balance display.
+- Cash withdrawal and deposit operations.
+- Fast-cash options.
+- Input validation and basic transaction checks.
+- Session-based interaction through a console menu.
+
+### Technologies & Concepts
+
+- C++
+- Standard Library
+- Conditional statements and loops
+- Functions and program structure
+- Input validation
+- Basic state and transaction handling
+
+## Project Scope
+
+This is a simulation for programming practice. It is not connected to a real bank, payment network, or financial account, and it should not be described as a production banking or security system.
+
+Refer to the source files in this repository for implementation details and available build instructions.
+
+## Developer
+
+**Zulqarnain Khan Jadoon**
+
+- GitHub: [@zulqarnainjadoon99](https://github.com/zulqarnainjadoon99)
+- Portfolio: [zulqarnainjadoon99.github.io](https://zulqarnainjadoon99.github.io)
 
 ---
 
-## 🚀 Key Features
-
-*   **Secure Access Layer:** Implements encrypted-style multi-attempt PIN verification logic to prevent unauthorized brute-force balance queries.
-*   **Transactional Integrity:** Handles real-time Cash Withdrawal, Fast Cash options, and Fund Deposits with robust boundary checks (e.g., overdraft blocking and negative deposit filtering).
-*   **Dynamic Session Management:** Maintains individual account states actively during execution loops, providing clean system clearing and update cycles.
-*   **Robust Input Stream Validation:** Built-in safeguards against common terminal crashes (such as `std::cin` type-mismatch vulnerabilities when alphabetical characters are entered instead of digits).
-
----
-
-## 🛠️ Core Concepts Demonstrated
-
-*   **Language Syntax:** Modern C++ (Standard ISO library constructs)
-*   **Control Flow Mastery:** Complex conditional branching, state machines, and switch-case routing structures.
-*   **Defensive Programming:** Active parameter boundaries verification to guarantee financial computation accuracy without data leakage.
-
----
-
-## ⚙️ Compilation & Execution
-
-1. **Clone the repository:**
-```bash
-   git clone [https://github.com/zulqarnainjadoon99/your-atm-repo-name.git](https://github.com/zulqarnainjadoon99/your-atm-repo-name.git)
-   cd your-atm-repo-name
-
----
-
-## 📬 Connect & Collaborate
-If you are an international client or recruiter looking for professional AI automation or backend development, feel free to reach out through official channels:
-
-* **LinkedIn:** [Zulqarnain Khan Jadoon on LinkedIn](https://www.linkedin.com/in/zulqarnain-khan-jadoon-4525531a4)
-* **Professional Channel:** Verified via OpenTrain AI Specialist Network
+*Educational portfolio project. Review the source code for the exact implementation.*
